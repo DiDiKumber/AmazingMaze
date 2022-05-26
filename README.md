@@ -1,0 +1,2 @@
+# AmazingMaze
+game for testing
